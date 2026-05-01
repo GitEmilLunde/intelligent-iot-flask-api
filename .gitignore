@@ -1,6 +1,18 @@
+# Environment filer
+.env
+.env.local
+.env.remote
+.env.production
+.env.*
+
+# Python
 __pycache__/
 *.pyc
-venv/
-.env
+*.pyo
+.pytest_cache/
+
+# Docker
+*.log
+
+# Mac
 .DS_Store
-gunicorn.ctl
