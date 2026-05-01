@@ -57,4 +57,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/ulpe-ek-dk/intelligent-iot-flask-api:latest
+          tags: ghcr.io/gitemillunde/intelligent-iot-flask-api:latest
